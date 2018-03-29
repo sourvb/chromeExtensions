@@ -7,6 +7,7 @@ var openwithjsonparseronlinefrReadyStateCheckInterval = setInterval(function() {
         	elem.focus();
         	elem.click();
         	elem.blur();
+            chrome.storage.local.remove(['openwithjsonparseronlinefr']);
         });
     }
 }, 15);

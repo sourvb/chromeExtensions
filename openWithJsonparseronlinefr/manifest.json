@@ -1,6 +1,6 @@
 {
   "name": "Open with http://json.parser.online.fr/",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "This extension is for opening any json from browser to http://json.parser.online.fr/ on a new tab.",
   "homepage_url": "https://github.com/sourvb/chromeExtensions",
